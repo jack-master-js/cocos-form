@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100">
+  <displayList>
+    <image id="n0" name="n0" src="pxi83f" fileName="images/k32.png" xy="0,0" size="100,100">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <list id="n1" name="list" xy="4,3" size="94,94" overflow="scroll" scrollBarFlags="4" defaultItem="ui://6bdjn073pxi83g"/>
+  </displayList>
+  <relation target="n1" sidePair="width-width,height-height"/>
+</component>

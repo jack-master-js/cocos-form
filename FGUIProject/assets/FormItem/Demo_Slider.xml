@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,570">
+  <displayList>
+    <component id="n1" name="n1" src="lk3r51" xy="84,63">
+      <Slider value="50" max="100"/>
+    </component>
+    <component id="n2" name="n2" src="lk3r57" xy="281,50">
+      <Slider value="50" max="100"/>
+    </component>
+    <component id="n3" name="n3" src="lk3r5d" xy="57,236">
+      <Slider value="50" max="100"/>
+    </component>
+    <component id="n4" name="n4" src="lk3r5j" xy="114,389">
+      <Slider value="50" max="100"/>
+    </component>
+  </displayList>
+</component>

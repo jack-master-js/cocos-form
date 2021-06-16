@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,20" extention="ComboBox">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n1" name="n1" src="pxi831" fileName="images/c1_png.png" xy="0,0" size="100,20" aspect="true">
+      <gearDisplay controller="button" pages="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2" name="n2" src="pxi832" fileName="images/c3_png.png" xy="0,0" size="100,20" aspect="true">
+      <gearDisplay controller="button" pages="1,3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n3" name="n3" src="pxi833" fileName="images/c2_png.png" xy="0,0" size="100,20" aspect="true">
+      <gearDisplay controller="button" pages="2"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n4" name="title" xy="7,0" size="73,19" fontSize="12" color="#ffcc00" autoSize="none" text="test">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <image id="n5" name="n5" src="pxi834" fileName="images/b7(2)_png.png" xy="83,2"/>
+  </displayList>
+  <ComboBox dropdown="ui://6bdjn073pxi835"/>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="jmf6v0k6">
+  <resources>
+    <component id="ebti0" name="Main.xml" path="/" exported="true"/>
+    <component id="ebti1" name="WindowFrameB.xml" path="/components/"/>
+    <component id="ebti2" name="CloseButton.xml" path="/components/"/>
+    <image id="ebti3" name="close_png.png" path="/images/"/>
+    <image id="ebti4" name="pic.png" path="/images/"/>
+    <component id="ebti5" name="ProgressBar3.xml" path="/components/"/>
+    <image id="ebti6" name="caiji.png" path="/images/"/>
+    <component id="ebti7" name="ProgressBar1.xml" path="/components/"/>
+    <image id="ebti8" name="caiji2.png" path="/images/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

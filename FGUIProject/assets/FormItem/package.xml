@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="6bdjn073">
+  <resources>
+    <component id="wkx70" name="Main.xml" path="/" exported="true"/>
+    <component id="pxi81x" name="ScrollBar_HZ.xml" path="/scrollbars/" exported="true"/>
+    <image id="pxi81y" name="s10.png.jpg" path="/images/" duplicatePadding="true"/>
+    <component id="pxi81z" name="ScrollUpButton.xml" path="/scrollbars/"/>
+    <image id="pxi820" name="s6.png.jpg" path="/images/" duplicatePadding="true"/>
+    <image id="pxi821" name="s4.png.jpg" path="/images/" duplicatePadding="true"/>
+    <image id="pxi822" name="s5.png.jpg" path="/images/" duplicatePadding="true"/>
+    <component id="pxi823" name="ScrollDownButton.xml" path="/scrollbars/"/>
+    <image id="pxi824" name="s9.png.jpg" path="/images/" duplicatePadding="true"/>
+    <image id="pxi825" name="s7.png.jpg" path="/images/" duplicatePadding="true"/>
+    <image id="pxi826" name="s8.png.jpg" path="/images/" duplicatePadding="true"/>
+    <component id="pxi827" name="GripButton_HZ.xml" path="/scrollbars/"/>
+    <image id="pxi828" name="s1.png.jpg" path="/images/" duplicatePadding="true"/>
+    <image id="pxi829" name="s2.png.jpg" path="/images/" duplicatePadding="true"/>
+    <image id="pxi82a" name="s3.png.jpg" path="/images/" duplicatePadding="true"/>
+    <component id="pxi82b" name="ScrollBar_VT.xml" path="/scrollbars/" exported="true"/>
+    <component id="pxi82c" name="GripButton_VT.xml" path="/scrollbars/"/>
+    <component id="pxi830" name="ComboBox.xml" path="/components/"/>
+    <image id="pxi831" name="c1_png.png" path="/images/" scale="9grid" scale9grid="7,5,73,10"/>
+    <image id="pxi832" name="c3_png.png" path="/images/" scale="9grid" scale9grid="11,5,71,10"/>
+    <image id="pxi833" name="c2_png.png" path="/images/" scale="9grid" scale9grid="8,5,73,10"/>
+    <image id="pxi834" name="b7(2)_png.png" path="/images/"/>
+    <component id="pxi835" name="ComboBoxPopup.xml" path="/components/"/>
+    <image id="pxi836" name="p1_png.png" path="/images/" scale="9grid" scale9grid="7,4,144,49"/>
+    <component id="pxi837" name="ComboBoxItem.xml" path="/components/"/>
+    <component id="pxi838" name="Dropdown.xml" path="/components/"/>
+    <component id="pxi839" name="Button15.xml" path="/components/"/>
+    <image id="pxi83a" name="k30.png" path="/images/" scale="9grid" scale9grid="33,10,57,20"/>
+    <image id="pxi83b" name="k28.png" path="/images/" scale="9grid" scale9grid="33,10,55,20"/>
+    <image id="pxi83c" name="k31.png" path="/images/" scale="9grid" scale9grid="33,10,55,20"/>
+    <image id="pxi83d" name="k29.png" path="/images/" scale="9grid" scale9grid="33,10,53,20"/>
+    <component id="pxi83e" name="Dropdown2.xml" path="/components/"/>
+    <image id="pxi83f" name="k32.png" path="/images/" scale="9grid" scale9grid="26,11,52,22"/>
+    <component id="pxi83g" name="Button14.xml" path="/components/"/>
+    <image id="pxi83h" name="k23.png" path="/images/" scale="9grid" scale9grid="26,10,52,20"/>
+    <image id="pxi83i" name="k21.png" path="/images/" scale="9grid" scale9grid="11,7,82,26"/>
+    <image id="pxi83j" name="k24.png" path="/images/" scale="9grid" scale9grid="26,10,52,20"/>
+    <image id="pxi83k" name="k22.png" path="/images/" scale="9grid" scale9grid="26,10,52,20"/>
+    <component id="ebti3m" name="Button.xml" path="/components/"/>
+    <image id="ebti3n" name="b7_png.png" path="/images/" scale="9grid" scale9grid="8,7,66,14"/>
+    <image id="ebti3o" name="b5_png.png" path="/images/" scale="9grid" scale9grid="12,7,61,14"/>
+    <image id="ebti3p" name="b6_png.png" path="/images/" scale="9grid" scale9grid="9,5,66,16"/>
+    <component id="ebti3q" name="Checkbox.xml" path="/components/"/>
+    <image id="ebti3r" name="b4.png.jpg" path="/images/"/>
+    <image id="ebti3s" name="b1.png.jpg" path="/images/"/>
+    <image id="ebti3t" name="b3.png.jpg" path="/images/"/>
+    <image id="ebti3u" name="b2.png.jpg" path="/images/"/>
+    <component id="ebti3v" name="RadioButton.xml" path="/components/"/>
+    <image id="ebti3w" name="a1_png.png" path="/images/"/>
+    <image id="ebti3x" name="a3_png.png" path="/images/"/>
+    <image id="ebti3y" name="a2_png.png" path="/images/"/>
+    <image id="ebti3z" name="a4_png.png" path="/images/"/>
+    <component id="ebti40" name="Button2.xml" path="/components/"/>
+    <image id="ebti41" name="angry_smile_png.png" path="/images/"/>
+    <component id="ebti42" name="Button4.xml" path="/components/"/>
+    <image id="ebti43" name="k20.png" path="/images/"/>
+    <image id="ebti44" name="k26.png" path="/images/"/>
+    <image id="ebti45" name="k25.png" path="/images/"/>
+    <image id="ebti46" name="b1.png" path="/images/"/>
+    <component id="ebti47" name="Button3.xml" path="/components/"/>
+    <component id="ebti48" name="Button8.xml" path="/components/"/>
+    <image id="ebti49" name="k11.png" path="/images/"/>
+    <image id="ebti4a" name="k10.png" path="/images/"/>
+    <component id="ebti4b" name="Button5.xml" path="/components/"/>
+    <image id="ebti4c" name="VIP_png.png" path="/images/"/>
+    <image id="ebti4d" name="k18.png" path="/images/"/>
+    <component id="ebti4e" name="Button7.xml" path="/components/"/>
+    <image id="ebti4f" name="k9.png" path="/images/"/>
+    <image id="ebti4g" name="k8.png" path="/images/"/>
+    <component id="ebti4h" name="OnOffButton.xml" path="/components/"/>
+    <image id="ebti4i" name="b12_png.png" path="/images/"/>
+    <image id="ebti4j" name="b13_png.png" path="/images/"/>
+    <component id="ebti4k" name="Button9.xml" path="/components/"/>
+    <image id="ebti4l" name="k14.png" path="/images/" scale="9grid" scale9grid="40,13,80,26"/>
+    <image id="ebti4m" name="k12.png" path="/images/" scale="9grid" scale9grid="40,19,80,18"/>
+    <image id="ebti4n" name="k13.png" path="/images/" scale="9grid" scale9grid="40,13,80,26"/>
+    <component id="ebti4o" name="Button6.xml" path="/components/"/>
+    <image id="ebti4p" name="k5.png" path="/images/"/>
+    <image id="ebti4q" name="k3.png" path="/images/" scale="9grid" scale9grid="16,9,32,6"/>
+    <image id="ebti4r" name="k6.png" path="/images/" scale="9grid" scale9grid="16,11,32,7"/>
+    <image id="ebti4s" name="k4.png" path="/images/"/>
+    <image id="ebti4t" name="long_dead_png.png" path="/images/"/>
+    <image id="ebti4u" name="plus_smile_png.png" path="/images/"/>
+    <component id="ebti4v" name="Button1.xml" path="/components/"/>
+    <component id="ebti4w" name="Button52.xml" path="/components/"/>
+    <component id="ebti4x" name="Button82.xml" path="/components/"/>
+    <image id="ebti4y" name="k36.png" path="/images/"/>
+    <image id="ebti4z" name="k35.png" path="/images/"/>
+    <sound id="ebtit" name="tabswitch.wav" path="/sound/" exported="true"/>
+    <sound id="ebtiu" name="click.wav" path="/sound/" exported="true"/>
+    <component id="lk3r50" name="Demo_Slider.xml" path="/" exported="true"/>
+    <component id="lk3r51" name="Slider_HZ.xml" path="/components/"/>
+    <image id="lk3r52" name="p10_png.png" path="/images/"/>
+    <image id="lk3r53" name="p11_png.png" path="/images/"/>
+    <component id="lk3r54" name="SliderArrow_HZ.xml" path="/components/"/>
+    <image id="lk3r55" name="p14_png.png" path="/images/"/>
+    <image id="lk3r56" name="p15_png.png" path="/images/"/>
+    <component id="lk3r57" name="Slider_VT.xml" path="/components/"/>
+    <image id="lk3r58" name="p13_png.png" path="/images/"/>
+    <image id="lk3r59" name="p12_png.png" path="/images/"/>
+    <component id="lk3r5a" name="SliderArrow_VT.xml" path="/components/"/>
+    <image id="lk3r5b" name="p8_png.png" path="/images/"/>
+    <image id="lk3r5c" name="p9_png.png" path="/images/"/>
+    <component id="lk3r5d" name="Slider1.xml" path="/components/"/>
+    <image id="lk3r5e" name="k33.png" path="/images/"/>
+    <image id="lk3r5f" name="k34.png" path="/images/" scale="9grid" scale9grid="41,4,342,5"/>
+    <component id="lk3r5g" name="Button13.xml" path="/components/"/>
+    <image id="lk3r5h" name="b3.png" path="/images/"/>
+    <image id="lk3r5i" name="b2.png" path="/images/"/>
+    <component id="lk3r5j" name="Slider2.xml" path="/components/"/>
+    <image id="lk3r5k" name="background.png" path="/images/" scale="9grid" scale9grid="24,6,319,13"/>
+    <image id="lk3r5l" name="full bar.png" path="/images/" scale="9grid" scale9grid="15,6,109,12"/>
+    <component id="lk3r5m" name="Slider2_grip.xml" path="/components/"/>
+    <image id="lk3r5n" name="back btn.png" path="/images/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

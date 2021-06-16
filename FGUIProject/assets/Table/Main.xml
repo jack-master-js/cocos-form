@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,570">
+  <controller name="pagination" pages="0,,1,,2,,3,,4," selected="0"/>
+  <displayList>
+    <graph id="n27" name="n27" xy="311,122" size="528,177" type="rect" lineColor="#49959595" fillColor="#ff233e43"/>
+    <image id="n18" name="n18" src="ebti1" fileName="images/grid_header_png.png" xy="311,84" size="527,39"/>
+    <list id="n19" name="list1" xy="311,122" size="527,174" pageController="pagination" layout="pagination" overflow="scroll" scroll="horizontal" scrollBarFlags="12" scrollBar="hidden" clipSoftness="0,20" defaultItem="ui://j0ft3axfebti2">
+      <item title="a"/>
+      <item title="b"/>
+      <item url="ui://j0ft3axfebti5" title="c"/>
+      <item title="d"/>
+      <item title="e"/>
+      <item title="f"/>
+      <item title="g"/>
+      <item title="h"/>
+      <item url="ui://j0ft3axfebti5" title="i"/>
+      <item title="j"/>
+      <item title="k"/>
+      <item url="ui://j0ft3axfebti5" title="l"/>
+      <item title="m"/>
+      <item title="n"/>
+    </list>
+    <text id="n20" name="n20" xy="320,90" size="59,32" group="n25" fontSize="22" color="#ccffff" text="Order"/>
+    <text id="n21" name="n21" xy="711,90" size="59,32" group="n25" fontSize="22" color="#ccffff" text="Stars"/>
+    <text id="n23" name="n23" xy="617,90" size="59,32" group="n25" fontSize="22" color="#ccffff" text="Color"/>
+    <text id="n24" name="n24" xy="457,90" size="48,32" group="n25" fontSize="22" color="#ccffff" text="Name"/>
+    <group id="n25" name="n25" xy="320,90" size="451,26" advanced="true"/>
+    <component id="n39_lk3r" name="n39" src="lk3rb" fileName="components/Button10.xml" xy="457,336" size="30,44">
+      <Button checked="true" title="1" titleFontSize="33" controller="pagination" page="0"/>
+    </component>
+    <component id="n40_lk3r" name="n40" src="lk3rb" fileName="components/Button10.xml" xy="511,336" size="30,44">
+      <Button title="2" titleFontSize="33" controller="pagination" page="1"/>
+    </component>
+    <component id="n41_lk3r" name="n41" src="lk3rb" fileName="components/Button10.xml" xy="565,336" size="30,44">
+      <Button title="3" titleFontSize="33" controller="pagination" page="2"/>
+    </component>
+    <component id="n42_lk3r" name="n42" src="lk3rb" fileName="components/Button10.xml" xy="619,336" size="30,44">
+      <Button title="4" titleFontSize="33" controller="pagination" page="3"/>
+    </component>
+    <component id="n43_lk3r" name="n43" src="lk3rb" fileName="components/Button10.xml" xy="673,336" size="30,44">
+      <Button title="5" titleFontSize="33" controller="pagination" page="4"/>
+    </component>
+  </displayList>
+</component>

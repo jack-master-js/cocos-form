@@ -1,0 +1,11 @@
+{
+  "name": "cocos-form",
+  "type": "3d",
+  "uuid": "bcd8eafa-9cdd-4dc0-b717-fdaf3148debb",
+  "version": "3.1.0",
+  "dependencies": {
+    "fairygui-cc": "^1.0.1",
+    "protobufjs": "^6.11.2",
+    "query-string": "^7.0.0"
+  }
+}

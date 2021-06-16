@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="j0ft3axf">
+  <resources>
+    <component id="ebti0" name="Main.xml" path="/" exported="true"/>
+    <image id="ebti1" name="grid_header_png.png" path="/images/" scale="9grid" scale9grid="50,5,100,10"/>
+    <component id="ebti2" name="GridItem.xml" path="/components/"/>
+    <component id="ebti3" name="Component11.xml" path="/components/"/>
+    <image id="ebti4" name="start.png" path="/images/" scale="tile"/>
+    <component id="ebti5" name="GridItem2.xml" path="/components/"/>
+    <component id="ebti6" name="Button8.xml" path="/components/"/>
+    <image id="ebti7" name="k11.png" path="/images/"/>
+    <image id="ebti8" name="k10.png" path="/images/"/>
+    <movieclip id="ebti9" name="gz.jta" path="/images/"/>
+    <component id="lk3rb" name="Button10.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

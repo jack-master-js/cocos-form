@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="850,400">
+  <controller name="RadioGroup" pages="0,,1,,2," selected="0"/>
+  <displayList>
+    <graph id="n7_tk24" name="n0" xy="0,0" size="850,400" type="rect" fillColor="#ff539fcd"/>
+    <component id="n27_mfuw" name="n1" src="pxi830" fileName="components/ComboBox.xml" xy="62,52">
+      <ComboBox title="test" visibleItemCount="10"/>
+    </component>
+    <component id="n26_pxi8" name="n2" src="pxi838" fileName="components/Dropdown.xml" xy="206,46">
+      <ComboBox title="test" visibleItemCount="5">
+        <item title="Item 1"/>
+        <item title="Item 2"/>
+        <item title="Item 3"/>
+        <item title="Item 4"/>
+        <item title="Item 5"/>
+        <item title="Item 6"/>
+        <item title="Item 7"/>
+      </ComboBox>
+    </component>
+    <component id="n37_ebti" name="n37" src="ebti48" fileName="components/Button8.xml" xy="124,141">
+      <Button checked="true"/>
+    </component>
+    <component id="n38_ebti" name="n38" src="ebti4b" fileName="components/Button5.xml" xy="413,32">
+      <Button icon="ui://6bdjn073ebti4d" sound="ui://6bdjn073ebtiu"/>
+    </component>
+    <component id="n42_ebti" name="n42" src="ebti3v" fileName="components/RadioButton.xml" xy="329,198" size="86,19" group="n58_ebti">
+      <Button checked="true" title="Option1" controller="RadioGroup" page="0"/>
+    </component>
+    <component id="n43_ebti" name="n43" src="ebti3v" fileName="components/RadioButton.xml" xy="329,230" size="86,19" group="n58_ebti">
+      <Button title="Option2" controller="RadioGroup" page="1"/>
+    </component>
+    <component id="n44_ebti" name="n44" src="ebti3v" fileName="components/RadioButton.xml" xy="329,260" size="86,19" group="n58_ebti">
+      <Button title="Option3" controller="RadioGroup" page="2"/>
+    </component>
+    <text id="n45_ebti" name="n45" xy="331,165" size="114,32" group="n58_ebti" fontSize="22" text="RadioGroup"/>
+    <group id="n58_ebti" name="n58" xy="329,165" size="116,114" advanced="true"/>
+    <graph id="n29_ebti" name="n29" xy="548,191" size="246,116" group="n59_ebti" type="rect" fillColor="#ff333333"/>
+    <text id="n46_ebti" name="n46" xy="571,160" size="48,32" group="n59_ebti" fontSize="22" text="Tabs"/>
+    <component id="n47_ebti" name="n47" src="ebti4o" fileName="components/Button6.xml" xy="568,198" group="n59_ebti">
+      <Button checked="true" title="Tab1" controller="RadioGroup" page="0"/>
+    </component>
+    <component id="n48_ebti" name="n48" src="ebti4o" fileName="components/Button6.xml" xy="637,198" group="n59_ebti">
+      <Button title="Tab2" controller="RadioGroup" page="1"/>
+    </component>
+    <component id="n49_ebti" name="n49" src="ebti4o" fileName="components/Button6.xml" xy="710,198" group="n59_ebti">
+      <Button title="Tab3" controller="RadioGroup" page="2"/>
+    </component>
+    <image id="n50_ebti" name="n50" src="ebti41" fileName="images/angry_smile_png.png" xy="650,251" group="n59_ebti">
+      <gearDisplay controller="RadioGroup" pages="0"/>
+    </image>
+    <image id="n63_lk3r" name="n63" src="ebti4t" fileName="images/long_dead_png.png" xy="648,248" group="n59_ebti">
+      <gearDisplay controller="RadioGroup" pages="1"/>
+    </image>
+    <image id="n64_lk3r" name="n64" src="ebti4u" fileName="images/plus_smile_png.png" xy="648,247" group="n59_ebti">
+      <gearDisplay controller="RadioGroup" pages="2"/>
+    </image>
+    <group id="n59_ebti" name="n59" xy="548,160" size="246,147"/>
+    <component id="n60_ebti" name="n60" src="ebti4k" fileName="components/Button9.xml" xy="643,37">
+      <Button title="Fade In Out"/>
+    </component>
+    <component id="n34_ebti" name="n34" src="ebti42" fileName="components/Button4.xml" xy="62,278" group="n62_ebti">
+      <Button sound="ui://6bdjn073ebtit"/>
+    </component>
+    <text id="n61_ebti" name="n61" xy="62,236" size="202,32" group="n62_ebti" fontSize="22" text="Transition Effect:"/>
+    <group id="n62_ebti" name="n62" xy="62,236" size="202,87"/>
+    <component id="n65_lk3r" name="n65" src="lk3r5d" fileName="components/Slider1.xml" xy="220,341">
+      <Slider value="50" max="100"/>
+    </component>
+  </displayList>
+</component>
